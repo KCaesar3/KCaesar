@@ -2,7 +2,7 @@
 
 # Karen Caesar
 
-I am currently a student going for a batchelor in computer science with a monor in design. 
+I am currently a student going for a batchelors in computer science with a monor in design. 
 
 > Be a borg : Strive for perfection
 
